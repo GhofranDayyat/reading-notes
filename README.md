@@ -5,7 +5,7 @@
 
 ## Tabel of Contant
 Readings | Title
------------- | -------------
+---------| -------------
 Read1 |  [Growth Mindset](https://ghofrandayyat.github.io/reading-notes/read1.md )
 Pead2  | [Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/read2.md )
 

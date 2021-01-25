@@ -10,7 +10,7 @@
 	Success of others| Views as threat  | Is inspired by
 
 # how to Train my self in a growth mindset
-- Nothing is impossible if you Embraces Challenges
+- Nothing is impossible if you Embraces Challenges.
 - Make the effort and wait for success.
 - Achieves more and higher Goals.
  

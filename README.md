@@ -1,21 +1,15 @@
-# You have two type of Mindset : 
-## **Growth**
-## *Fixed*
-## Faced With              |  *Growth*            | **Fixed**
-                                                      
-	Challenges       |Avoids            |Embraces
-	Obstacles        |Loses focus       |Persists
-	Effort           |Views as fruitless| No pain No gain
-	Criticism        |Ignores           |Learns from
-	Success of others| Views as threat  | Is inspired by
+# Welcome to the site of forgiveness
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GuRWxXVeA3i83C6MbKg8z3mW2ljc7prhvQ&usqp=CAU)
 
-# how to Train my self in a growth mindset
-- Nothing is impossible if you Embraces Challenges.
-- Make the effort and wait for success.
-- Achieves more and higher Goals.
- 
 
 ![# do Exercise Your Mind](https://www.ntaskmanager.com/wp-content/uploads/2019/05/fixed-vs-growth-mindset-blog-header-2.png)
+
+
+##Tabel of Contant
+102b lab | Title
+------------ | -------------
+Read1 | Content from cell 2
+Pead2 | Content in the second column
 
 
 

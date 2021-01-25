@@ -6,8 +6,8 @@
 ## Tabel of Contant
 102b lab | Title
 ------------ | -------------
-Read1 | Content from cell 2
-Pead2 | Content in the second column
+Read1 | [Growth Mindset](https://ghofrandayyat.github.io/reading-notes/read1.md )
+Pead2 | [Mastering Markdown on GitHub]()
 
 
 

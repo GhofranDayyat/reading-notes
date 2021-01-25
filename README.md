@@ -5,9 +5,9 @@
 
 ## Tabel of Contant
 102b lab | Title
------------- | -------------
+ | 
 Read1 | [Growth Mindset](https://ghofrandayyat.github.io/reading-notes/read1.md )
-Pead2 | [Mastering Markdown on GitHub]()
+Pead2 | [Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/read2.md )
 
 
 

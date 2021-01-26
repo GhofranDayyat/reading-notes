@@ -8,7 +8,8 @@
 |Readings         | Title                                                                              |
 |---------------- | ---------------------------------------------------------------------------------- |
 |Read1            | [Growth Mindset](https://ghofrandayyat.github.io/reading-notes/read1)              |
-|Pead2            | [Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/read2)|
+|Read2            | [Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/read2)|
+|Read3            | [ HTML&CSS ](https://ghofrandayyat.github.io/reading-notes/read3)                  |
 
 
 

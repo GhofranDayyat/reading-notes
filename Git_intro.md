@@ -2,17 +2,17 @@
 
 ## Git Command
 
-1. we create our own git init or we clone it from a repository using:
+* we create our own git init or we clone it from a repository using:
 git clone repolink
-2. We mainly need A-C-P commands to work the basic features of git on our software files;
+* We mainly need A-C-P commands to work the basic features of git on our software files;
 
-* git add filename
+1. git add filename
 
-* git commit -m "brief explanation of why you made the change "
+2. git commit -m "brief explanation of why you made the change "
 
-* git push 
+3. git push 
 
-3. To get the changes made elsewhere on our files we use:
+* To get the changes made elsewhere on our files we use:
 git pull
 
 

@@ -46,6 +46,10 @@ Comparison operators usually return single values of true or false. Logical oper
 * T || anything it get true
 
 
+# LOOPS 
+Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common types of loops:
+
+
 
 
  

@@ -17,3 +17,7 @@
 
 ![# do Exercise Your Mind](https://www.ntaskmanager.com/wp-content/uploads/2019/05/fixed-vs-growth-mindset-blog-header-2.png)
 
+# An introduction of myself
+* my name is ghofran dayyat , l have 23 years , l have bachelor's degree of electrical engineering , l have not any experience years in that field yet, and I'm single
+I am excited to start this scholarship with LTUC to be a software developer
+* and this my [GitHub page link](https://github.com/GhofranDayyat/)

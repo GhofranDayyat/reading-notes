@@ -30,7 +30,7 @@ This operator checks if the number on the left is greater than or equal to the n
 ## LOGICAL OPERATORS 
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 * LOGICAL **AND** _ && _ This operator tests more than one condition
-* LOGICAL **OR** _||_ This operator tests at least one condition
+* LOGICAL **OR** _**||**_ This operator tests at least one condition
 * LOGICAL **NOT** _!_  This operator takes a single Boolean value and inverts it.
 
 
@@ -66,8 +66,8 @@ for (var i = 0 < 10 ; i++ ){
 
 
  
-**2.** **WHILE If**
-you do not know how many times the code should run, you can use a while loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true. 
+**2.** **WHILE**
+If you do not know how many times the code should run, you can use a while loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true. 
 
 ```
 var i = l ;
@@ -77,6 +77,7 @@ msg += i + ' x 5 = ' + (i * 5) + '<br I>';
 i++;
 document .getEl ementByid( ' answer') . innerHTML = msg;
 ```
+```
 * Result: lxS=S
 2 x s = 10
 3 x 5 = 15 .
@@ -85,7 +86,8 @@ s x s = 25
 6 x s = 30
 7 x 5 = 35
 8 x s = 40
-9 x 5 = 45 
+9 x 5 = 45
+``` 
 * Inside the code block there are
 two statements: 
 - The first statement uses the+=
@@ -93,6 +95,8 @@ operator
 - The second statement
 increments the counter variable
 by one
+
+
 **3.** **DO.. WHILE**
  The do...while loop is very similar to the wh1le loop, but has one key difference: it will always run the statements Inside the curly braces at least once, even if the condition evaluates to false.
 

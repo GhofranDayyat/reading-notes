@@ -66,7 +66,7 @@ for (var i = 0 < 10 ; i++ ){
 
 
  
-2. **WHILE If**
+**2.** **WHILE If**
 you do not know how many times the code should run, you can use a while loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true. 
 
 ```
@@ -93,7 +93,7 @@ operator
 - The second statement
 increments the counter variable
 by one
-3. **DO.. WHILE**
+**3.** **DO.. WHILE**
  The do...while loop is very similar to the wh1le loop, but has one key difference: it will always run the statements Inside the curly braces at least once, even if the condition evaluates to false.
 
 

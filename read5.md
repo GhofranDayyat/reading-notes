@@ -34,16 +34,16 @@ Comparison operators usually return single values of true or false. Logical oper
 * LOGICAL **NOT** _!_  This operator takes a single Boolean value and inverts it.
 
 
-|A | B| &&   |  || |                                                                      
-|--|--|------|-----|
-|T |T |  T   |  T  |             
-|T |F |  F   |  T  |                        
-|F |T |  F   |  T  |                 
-|F |F |  F   |  F  |
+|A | B| &&   |**||**|                                                                      
+|--|--|------|------|
+|T |T |  T   |  T   |             
+|T |F |  F   |  T   |                        
+|F |T |  F   |  T   |                 
+|F |F |  F   |  F   |
 
 ## Short_Circuit Evaluation
 * F && anything it get false
-* T || anything it get true
+* T **||** anything it get true
 
 
 # LOOPS 

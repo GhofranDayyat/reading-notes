@@ -30,7 +30,7 @@ This operator checks if the number on the left is greater than or equal to the n
 ## LOGICAL OPERATORS 
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 * LOGICAL **AND** _ && _ This operator tests more than one condition
-* LOGICAL **OR** _**||**_ This operator tests at least one condition
+* LOGICAL **OR** _```||``` This operator tests at least one condition
 * LOGICAL **NOT** _!_  This operator takes a single Boolean value and inverts it.
 
 

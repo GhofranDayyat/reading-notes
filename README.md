@@ -22,7 +22,7 @@
 ## Tabel of Contant
 |Readings|Title                                                             |
 |--------|------------------------------------------------------------------|
-|Read1a  |[class-01 ](https://ghofrandayyat.github.io/reading-notes/Read1a) |
+|Read1a  |[class-01 ](https://ghofrandayyat.github.io/reading-notes/Read01a)|
 |Read2   |                                                                  |
 |Read3   |                                                                  |
 |Read4   |                                                                  |

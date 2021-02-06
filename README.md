@@ -20,7 +20,7 @@
 # Code 201 Reading Notes
 
 ## Tabel of Contant
-|Readings|Title   |
+**|Readings|Title   |
 |--------|--------|
 |Read1a  ||
 |Read2   ||
@@ -37,4 +37,4 @@
 |Read13  ||
 |Read14  ||
 |Read15  ||
-|Read16  ||
+|Read16  ||**

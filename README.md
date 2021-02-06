@@ -20,21 +20,21 @@
 # Code 201 Reading Notes
 
 ## Tabel of Contant
-**|Readings|Title   |
-|--------|--------|
-|Read1a  ||
-|Read2   ||
-|Read3   ||
-|Read4   ||
-|Read5   ||
-|Read6   ||
-|Read7   ||
-|Read8   ||
-|Read9   ||
-|Read10  ||
-|Read11  ||
-|Read12  ||
-|Read13  ||
-|Read14  ||
-|Read15  ||
-|Read16  ||**
+|Readings|Title                                                             |
+|--------|------------------------------------------------------------------|
+|Read1a  |[class-01 ](https://ghofrandayyat.github.io/reading-notes/Read1a) |
+|Read2   |                                                                  |
+|Read3   |                                                                  |
+|Read4   |                                                                  |
+|Read5   |                                                                  |
+|Read6   |                                                                  |
+|Read7   |                                                                  |
+|Read8   |                                                                  |
+|Read9   |                                                                  |
+|Read10  |                                                                  |
+|Read11  |                                                                  |
+|Read12  |                                                                  |
+|Read13  |                                                                  |
+|Read14  |                                                                  |
+|Read15  |                                                                  |
+|Read16  |                                                                  |

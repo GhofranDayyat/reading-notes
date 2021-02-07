@@ -20,7 +20,9 @@
 # Code 201 Reading Notes
 
 ## Tabel of Contant
- |Readings|Title                                                            |
+
+
+|Readings|Title                                                             |
 |--------|------------------------------------------------------------------|
 |Read1a  |[class-01](https://ghofrandayyat.github.io/reading-notes/class-01)|
 |Read2   |                                                                  |

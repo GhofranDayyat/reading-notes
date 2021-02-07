@@ -21,7 +21,6 @@
 
 ## Tabel of Contant
 
-
 |Readings|Title                                                             |
 |--------|------------------------------------------------------------------|
 |Read1a  |[class-01](https://ghofrandayyat.github.io/reading-notes/class-01)|

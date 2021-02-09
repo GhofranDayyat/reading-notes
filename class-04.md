@@ -5,7 +5,8 @@
 between the opening ```<a>``` tag and the closing ```</a>``` tag. You specify
 which page you want to link to using the href attribute 
 
-![check](./image/l.jpg)
+![check](./image/l.png)
+
 * you can make 
 1. Linking to Other Sites
 ```<a href="http://www.empireonline.com">Empire</a>```

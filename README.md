@@ -28,7 +28,7 @@
 |Read3   |[class-03](https://ghofrandayyat.github.io/reading-notes/class-03)|
 |Read4   |[class-04](https://ghofrandayyat.github.io/reading-notes/class-04)|
 |Read5   |[class-05](https://ghofrandayyat.github.io/reading-notes/class-05)|
-|Read6   |                                                                  |
+|Read6   |[class-06](https://ghofrandayyat.github.io/reading-notes/class-06)|
 |Read7   |                                                                  |
 |Read8   |                                                                  |
 |Read9   |                                                                  |

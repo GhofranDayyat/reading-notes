@@ -2,7 +2,7 @@
 ## Adding Images 
 To add an image into the page you need to use an ```<img>``` element. This is an empty element (which means there is no closing tag). It must carry the following two attributes
 
-<img src="images/quokka.jpg" alt="what pic chow"/>
+```<img src="images/quokka.jpg" alt="what pic show"/>```
 
 ## Height & Width of Images
 **height**
@@ -179,3 +179,92 @@ The ```text-decoration``` property allows you to specify the following values:
 
 5. **blink**
 
+**line-height** use for the vertical space between lines of text.
+
+```p {```
+
+```line-height: 1.4em;}```
+
+## Lett er & Word Spacing
+
+* space between each letter. You can control the space between each letter with the ```letter-spacing``` property.
+
+```h1, h2 {```
+
+```text-transform: uppercase;```
+
+```letter-spacing: 0.2em;}```
+
+* You can also control the gap between words using the ```word-spacing``` property
+
+```.credits {```
+
+```font-weight: bold;```
+
+```word-spacing: 1em;}```
+
+## Alignment
+
+1. **left** This indicates that the text should be left-aligned.
+```h1 {```
+
+```text-align: left;}```
+
+2. **right** This indicates that the text should be right-aligned.
+```.credits {```
+
+```text-align: right;}```
+
+3. **center** This allows you to center text.
+```p {```
+
+```text-align: center;}```
+
+4. **justify** This indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box.
+```p {```
+
+```text-align: justify;}```
+
+## Vertical Alignment
+
+**Top**
+```#six-months {```
+
+```vertical-align: text-top;}```
+
+**and otger values is:**
+* baseline
+* sub
+* super
+* top
+* text-top
+* middle
+* bottom
+* text-bottom
+ 
+## Indenting Text 
+By ```.credits {```
+
+```text-indent: 20px;}```
+
+## first-letter, :first-line
+By ```p.intro:first-letter {```
+
+```font-size: 200%;}```
+
+```p.intro:first-line {```
+
+```font-weight: bold;}```
+
+# Summary 
+* There are properties to control t XX he choice of font, size, weight, style, and spacing.
+
+* There is a limited choice of fonts that you can assume most people will have installed.
+
+* If you want to use a wider range of typefaces there are several options, but you need to have the right license to
+ use them.
+
+* You can control the space between lines of text, individual letters, and words. Text can also be aligned to the 
+left, right, center, or justified. It can also be indented.
+
+* You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.

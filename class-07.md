@@ -40,7 +40,7 @@ three elements that help distinguish between the main content of the table
 **CREATING AN OBJECT: CONSTRUCTOR NOTATION** 
 The new keyword and the object constructor create a blank object. You can then add properties and methods to the object.
 
-![check](*/image/ed.png)
+![check](./image/ed.png)
 
 - first, you createa new object using a combination of the new keyword and the Object () constructor function. (This function is part of the JavaScript language and is used to create objects.) 
 

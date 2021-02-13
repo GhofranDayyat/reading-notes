@@ -83,7 +83,7 @@ Arrays are actually a special type of object. They hold a related set of key/val
 # Summary
 * Functions allow you to group a set of related statements together that represent a single task.
 
-* Functions can take parameters (informatiorJ required to do their job) and may return a value.
+* Functions can take parameters (informatior required to do their job) and may return a value.
 
 * An object is a series of variables and functions that represent something from the world around you.
 

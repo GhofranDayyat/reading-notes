@@ -42,7 +42,7 @@ The new keyword and the object constructor create a blank object. You can then a
 
 ![check](./image/ed.png)
 
-- first, you createa new object using a combination of the new keyword and the Object () constructor function. (This function is part of the JavaScript language and is used to create objects.) 
+- first, you create a new object using a combination of the new keyword and the Object () constructor function. (This function is part of the JavaScript language and is used to create objects.) 
 
 - Next, having created the blank object, you can add properties and methods to it using dot notation. Each statement that adds a property or method should end with a semicolon.
 - To create an empty object using literal notation use: ```var hotel={}``` The curly brackets create an empty object.
@@ -67,7 +67,7 @@ Object constructors can use a function as a template for creating objects. First
 ## Arrays are Object !!
 Arrays are actually a special type of object. They hold a related set of key/value pairs (like all objects), but the **key for each value is its index number**.
 
-**ARRAYS OF OBJECTS & OBJECTS IN ARRAYS**You can combine arrays and objects to create complex data structures: Arrays can store a series of objects (and remember their order). Objects can also hold arrays (as values of their properties)
+**ARRAYS OF OBJECTS & OBJECTS IN ARRAYS** You can combine arrays and objects to create complex data structures: Arrays can store a series of objects (and remember their order). Objects can also hold arrays (as values of their properties)
 
 ## Groups of Built-in Object
 1. BROWSER OBJECT MODEL

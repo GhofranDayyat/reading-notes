@@ -9,15 +9,15 @@
 
 1. LITERAL NOTATION
 
-!(check)[./image/uu.png]
+![check](./image/uu.png)
 
-2. Constructor Notation 
+**2.** Constructor Notation 
 
-!(check)[./image/g.png]
+![check](./image/g.png)
 
 # Accessing an Object and dot Notation
 
-!(check)[./image/h.png]
+![check](./image/h.png)
 
 # CH5 Document Object Model
 

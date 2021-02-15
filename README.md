@@ -30,7 +30,7 @@
 |Read5   |[class-05](https://ghofrandayyat.github.io/reading-notes/class-05)|
 |Read6   |[class-06](https://ghofrandayyat.github.io/reading-notes/class-06)|
 |Read7   |[class-07](https://ghofrandayyat.github.io/reading-notes/class-07)|
-|Read8   |                                                                  |
+|Read8   |[class-08](https://ghofrandayyat.github.io/reading-notes/class-08)|
 |Read9   |                                                                  |
 |Read10  |                                                                  |
 |Read11  |                                                                  |

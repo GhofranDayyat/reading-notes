@@ -33,8 +33,8 @@
 |Read8   |[class-08](https://ghofrandayyat.github.io/reading-notes/class-08)|
 |Read9   |[class-09](https://ghofrandayyat.github.io/reading-notes/class-09)|
 |Read10  |[class-10](https://ghofrandayyat.github.io/reading-notes/class-10)|
-|Read11  |                                                                  |
-|Read12  |                                                                  |
+|Read11  |[class-11](https://ghofrandayyat.github.io/reading-notes/class-11)|
+|Read12  |[class-12](https://ghofrandayyat.github.io/reading-notes/class-12)|
 |Read13  |                                                                  |
 |Read14  |                                                                  |
 |Read15  |                                                                  |

@@ -36,6 +36,6 @@
 |Read11  |[class-11](https://ghofrandayyat.github.io/reading-notes/class-11)  |
 |Read12  |[class-12](https://ghofrandayyat.github.io/reading-notes/class-12)  |
 |Read13  |[class-13](https://ghofrandayyat.github.io/reading-notes/class-13)  |
-|Read14  |[class14a](https://ghofrandayyat.github.io/reading-notes/class-14-b)|
+|Read14  |[class14a](https://ghofrandayyat.github.io/reading-notes/class-14-a)|
 |Read15  |[class14b](https://ghofrandayyat.github.io/reading-notes/class-14-b)|
 |Read16  |                                                                    |

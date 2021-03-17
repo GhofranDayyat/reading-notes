@@ -5,8 +5,8 @@
 
 ## Code 102 Reading Notes
 
-|Readings             |Title                                                                               |
-|---------------------|------------------------------------------------------------------------------------|
+|Readings             |Title                                                                                   |
+|---------------------|----------------------------------------------------------------------------------------|
 |Read1                |[Growth Mindset](https://ghofrandayyat.github.io/reading-notes/102/read1)               |
 |Read2                |[Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/102/read2) |
 |Read3                |[HTML&CSS](https://ghofrandayyat.github.io/reading-notes/102/read3)                     |

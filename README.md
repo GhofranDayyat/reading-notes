@@ -1,12 +1,11 @@
-# Welcome to Ghofran's Website
+# Welcome to Ghofran's Reading Notes
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GuRWxXVeA3i83C6MbKg8z3mW2ljc7prhvQ&usqp=CAU)
 
 ### In this Website you will Find all Summaries of Reading for the Software Development Cours.
 
-# Code 102 Reading Notes
-## Tabel of Contant
+## Code 102 Reading Notes
 
-**|Readings           |Title                                                                               |
+|Readings             |Title                                                                               |
 |---------------------|------------------------------------------------------------------------------------|
 |Read1                |[Growth Mindset](https://ghofrandayyat.github.io/reading-notes/read1)               |
 |Read2                |[Mastering Markdown on GitHub](https://ghofrandayyat.github.io/reading-notes/read2) |
@@ -15,11 +14,10 @@
 |Read4                |[javascript](https://ghofrandayyat.github.io/reading-notes/read4)                   |
 |Read5                |[Comparaison Operators &Loops](https://ghofrandayyat.github.io/reading-notes/read5) |
 |Read6a               |[Function by JS](https://ghofrandayyat.github.io/reading-notes/read6a)              |
-|Read6b               |[Color by Css ](https://ghofrandayyat.github.io/reading-notes/read6b)               |**
+|Read6b               |[Color by Css ](https://ghofrandayyat.github.io/reading-notes/read6b)               |
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 
-## Tabel of Contant
 
 |Readings|Title                                                               |
 |--------|--------------------------------------------------------------------|
@@ -36,6 +34,15 @@
 |Read11  |[class-11](https://ghofrandayyat.github.io/reading-notes/class-11)  |
 |Read12  |[class-12](https://ghofrandayyat.github.io/reading-notes/class-12)  |
 |Read13  |[class-13](https://ghofrandayyat.github.io/reading-notes/class-13)  |
-|Read14  |[class14a](https://ghofrandayyat.github.io/reading-notes/class-14-a)|
-|Read15  |[class14b](https://ghofrandayyat.github.io/reading-notes/class-14-b)|
-|Read16  |                                                                    |
+|Read14-a|[class14a](https://ghofrandayyat.github.io/reading-notes/class-14-a)|
+|Read14-b|[class14b](https://ghofrandayyat.github.io/reading-notes/class-14-b)|
+
+
+
+## Code 301 Reading Notes
+
+
+|Readings             |Title                                                                               |
+|---------------------|------------------------------------------------------------------------------------|
+|Read1                |[**************](https://ghofrandayyat.github.io/reading-notes/)               |
+

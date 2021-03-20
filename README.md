@@ -42,7 +42,8 @@
 ## Code 301 Reading Notes
 
 
-|Readings             |Title                                                                               |
-|---------------------|------------------------------------------------------------------------------------|
-|Read1                |[**************](https://ghofrandayyat.github.io/reading-notes/)               |
+|Readings  |Title                                                                                          |
+|----------|-----------------------------------------------------------------------------------------------|
+|Read1     |[SMACSS and Responsive Web Design](https://ghofrandayyat.github.io/reading-notes/301/read301-1)|
+
 

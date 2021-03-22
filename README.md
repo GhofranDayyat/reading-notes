@@ -45,5 +45,5 @@
 |Readings  |Title                                                                                          |
 |----------|-----------------------------------------------------------------------------------------------|
 |Read1     |[SMACSS and Responsive Web Design](https://ghofrandayyat.github.io/reading-notes/301/read301-1)|
-
+|Read2     |[jQuery  & pair programming](https://ghofrandayyat.github.io/reading-notes/301/read301-2)      |
 

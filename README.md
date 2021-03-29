@@ -51,3 +51,4 @@
 |Read5     |[HEROKU](https://ghofrandayyat.github.io/reading-notes/301/read301-5)                          |
 |Read6     |[Node.js](https://ghofrandayyat.github.io/reading-notes/301/read301-6)                         |
 |Read7     |[REST](https://ghofrandayyat.github.io/reading-notes/301/read301-7)                            |
+|Read8     |[SQL](https://ghofrandayyat.github.io/reading-notes/301/read301-8)                             |

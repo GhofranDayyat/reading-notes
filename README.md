@@ -53,4 +53,4 @@
 |Read7     |[REST](https://ghofrandayyat.github.io/reading-notes/301/read301-7)                            |
 |Read8     |[SQL](https://ghofrandayyat.github.io/reading-notes/301/read301-8)                             |
 |Read9     |[functional programming](https://ghofrandayyat.github.io/reading-notes/301/read301-9)          |
-|Read10    |[THE CALL STACK](https://ghofrandayyat.github.io/reading-notes/301/read301-9)                  |
+|Read10    |[THE CALL STACK](https://ghofrandayyat.github.io/reading-notes/301/read301-10)                  |

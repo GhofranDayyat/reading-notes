@@ -55,3 +55,4 @@
 |Read9     |[functional programming](https://ghofrandayyat.github.io/reading-notes/301/read301-9)          |
 |Read10    |[THE CALL STACK](https://ghofrandayyat.github.io/reading-notes/301/read301-10)                 |
 |Read11    |[EJS](https://ghofrandayyat.github.io/reading-notes/301/read301-11)                            |
+|Read12    |[EJS Partials](https://ghofrandayyat.github.io/reading-notes/301/read301-12)                   |

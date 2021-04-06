@@ -56,4 +56,6 @@
 |Read10    |[THE CALL STACK](https://ghofrandayyat.github.io/reading-notes/301/read301-10)                 |
 |Read11    |[EJS](https://ghofrandayyat.github.io/reading-notes/301/read301-11)                            |
 |Read12    |[EJS Partials](https://ghofrandayyat.github.io/reading-notes/301/read301-12)                   |
-|Read13    |[SENDING FORM DATA](https://ghofrandayyat.github.io/reading-notes/301/read301-13)             |
+|Read13    |[SENDING FORM DATA](https://ghofrandayyat.github.io/reading-notes/301/read301-13)              |
+|Read14a   |[Database normalization](https://ghofrandayyat.github.io/reading-notes/301/read301-14a)        |
+|Read14b   |[Project Ideas](https://ghofrandayyat.github.io/reading-notes/301/read301-14b)                 |

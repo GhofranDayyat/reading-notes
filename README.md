@@ -4,7 +4,7 @@
 ### In this Website you will Find all Summaries of Reading for the Software Development Cours.
 
 
-[ Code 102 Reading Notes](https://ghofrandayyat.github.io/reading-notes/102)
-[ Code 201 Reading Notes](https://ghofrandayyat.github.io/reading-notes/201)
-[ Code 301 Reading Notes](https://ghofrandayyat.github.io/reading-notes/301)
-[ Code 401 Reading Notes](https://ghofrandayyat.github.io/reading-notes/401)
+* [ Code 102 Reading Notes](https://ghofrandayyat.github.io/reading-notes/102)
+* [ Code 201 Reading Notes](https://ghofrandayyat.github.io/reading-notes/201)
+* [ Code 301 Reading Notes](https://ghofrandayyat.github.io/reading-notes/301)
+* [ Code 401 Reading Notes](https://ghofrandayyat.github.io/reading-notes/401)

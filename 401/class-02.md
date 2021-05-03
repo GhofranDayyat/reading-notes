@@ -3,12 +3,16 @@
 1.  What’s the difference between PUT and PATCH? [Referencing](https://rapidapi.com/)
     * PUT is a method of modifying resource where the client sends data that updates the entire resource. It is used to set an entity’s information completely
     * Unlike PUT, PATCH applies a partial update to the resource.
+
 2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server?[Referencing](nordicapis)
     * [Nock](https://github.com/nock/nock)
     * [MockServer](https://www.mock-server.com/)
     * [mockoon](https://mockoon.com/)
-3. Compare and contrast Swagger and APIDoc.js 1 Which HTTP status codes should be sent with each type of (un)successful API call? 
-* 404 Answer Not Found 
+
+3. Compare and contrast Swagger and APIDoc.js 1 Which HTTP status codes should be sent with each type of (un)successful API call? [Referencing](nordicapis)
+* **Swagger**: 200:ok / 400: Bad request/401: Authorization missing or invalid / 404: not found	/ 5XX: Unexpected error
+* **APIDocs.js** 200:ok / 400: Bad request/ 404: not found	/403: forbidden	/500: server error	
+	
 4. Compare and contrast SOAP and ReST? [Referencing](raygun)
     * SOAP and REST are two API styles that approach the question of data transmission from a different point of view
     * REST was created to address the problems of SOAP.

@@ -53,3 +53,13 @@
 **TDD** is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. This is opposed to software being developed first and test cases created later.
 
 **Behavioural Testing** is a testing of the external behaviour of the program, also known as black box testing. It is usually a functional testing.
+
+# Reading Qestions
+1. True or false: The route handler is middleware? *yes True*
+2. In what ways can a middleware function end the process and send data to the browser? 
+*without using next() and it's passing data* 
+3. At what point in the request lifecycle can you “inject” middleware?
+*after the rout handling the Req*
+4. Request headers sent twice, cannot start a second response?
+*when you send more then one response to same request in same routs*
+

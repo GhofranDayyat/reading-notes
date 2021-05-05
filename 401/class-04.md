@@ -57,8 +57,23 @@ The **super** keyword is used to access and call functions on an object's parent
 
 
 # Questions
-1.
+1.Q
 * reduces the time required for project development
 * With TDD you will get a reliable solution
 * Better program design and higher code quality
 * Developers who work with the TDD approach, have more structured thinking and usually provide better estimates. 
+
+2.Q
+beforeEach() is run before each test in a describe
+afterEach()   is run after each test in a describe
+
+3.Q
+**Big time investment**. For the simple case you lose about 20% of the actual implementation, but for complicated cases you lose much more
+
+4.Q 
+**classes**can call it at runtime, **prototype** is itself an object instance.
+
+5.Q
+* Faster Data Interchange Format
+* Caching is Easier with REST
+* REST is Flexibile

@@ -107,6 +107,19 @@ and it's value determines how slow the hash function will be, means different wo
 
 ``});``
 
+
+# Q:
+1. Explain what a “Singleton” is (in Computer Science terms)
+- Is a software design pattern that restricts the instantiation of a class to one "single" instance. 
+
+2. Explain how the Singleton pattern can be used with Node modules, specifically with classes
+- IT'S restricts the instantiation of a class to one "single" instance ;useful when exactly one object is needed to coordinate actions across the system. 
+
+3. If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?
+- write middlewear function 
+- importe this middlewear Either globally ``app.use(middleware)`` or locally ``app.get('/',middleware,CB).``
+
+
 * **Middleware** is functions that have access to the request object (req), the response object (Links to an external site.) (res)
 * A **REST** API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services. REST stands for representational state transfer
 * **Mock testing** is an approach to unit testing that lets you make assertions about how the code under test is interacting with other system modules

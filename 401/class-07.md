@@ -26,10 +26,27 @@ To create the signature part you have to take the encoded header, the encoded pa
 
 
 # Q
-2. An authorization code is an alphanumeric password that authorizes its user to purchase, sell or transfer items, or to enter information into a security-protected space
-3. 
+1. Write the following steps in the correct order:
+
+* Register your application to get a client_id and client_secret
+* Ask the client if they want to sign in via a third party
+* Make a request to a third-party API endpoint
+* Make a request to the access token endpoint
+* Receive access token
+* Redirect to a third party authentication endpoint
+* Receive authorization code
+
+2. What can you do with an authorization code?
+
+ An authorization code is an alphanumeric password that authorizes its user to purchase, sell or transfer items, or to enter information into a security-protected space
+
+3. What can you do with an access token?
+
 Access tokens are the thing that applications use to make API requests on behalf of a user. The access token represents the authorization of a specific application to access specific parts of a user's data. Access tokens must be kept confidential in transit and in storage.
-4. 
+
+
+4. What’s a benefit of using OAuth instead of your own basic authentication?
+
 OAuth is a delegated authorization framework for REST/APIs. It enables apps to obtain limited access (scopes) to a user's data without giving away a user's password. It decouples authentication from authorization and supports multiple use cases addressing different device capabilities.
 
 ## Terms 

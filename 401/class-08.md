@@ -33,7 +33,9 @@ Periodically review your roles, the employees assigned to them, and the access p
 2. What does the JSON Web Token package do?
 * defines a compact and self-contained way for securely transmitting information between parties as a JSON object. 
 3. What considerations should we make when creating and storing a SECRET?
-* Use encryption to store secrets
+* Use encryption to store secrets within .git repositories
+* Use environment variables
+* Use “Secrets as a service” solutions
 
 
 

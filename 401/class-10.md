@@ -1,4 +1,5 @@
 # Stacks
+![check](./img/stack.png)
 
 ## Stacks Concepts:
     1. **FILO:** Last In First Out :This means that the first item added in the stack will be the last item popped out of the stack.
@@ -32,6 +33,7 @@
 
 
 # Queue
+![check](./img/que.png)
 
 ## Stacks Concepts:
     1. **FILO:** Last In First Out :This means that the first item in the queue will be the first item out of the queue.

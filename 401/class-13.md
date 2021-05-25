@@ -1,3 +1,5 @@
+[read13](https://ghofrandayyat.github.io/reading-notes/401/class-13)
+
 ## [Socket.io Emit Cheatsheet](https://socket.io/get-started/chat/)
 # Room
 * **Room**: A room is an arbitrary channel that sockets can join and leave. It can be used to broadcast events to a subset of clients ,**server-only** concept (i.e. the client does not have access to the list of rooms it has joined
@@ -9,6 +11,7 @@
 * delete-room (argument: room)
 * join-room (argument: room, id)
 * leave-room (argument: room, id)
+
  **code sample**
  ``io.of("/").adapter.on("create-room", (room) => {``
 

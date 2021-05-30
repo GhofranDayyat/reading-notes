@@ -1,10 +1,10 @@
 # AWS: S3 and Lambda
  
 
- # Amazon S3
+# Amazon S3
  * **Amazon S3**Amazon Simple Storage Service  is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics. 
 
- ## S3 features
+## S3 features
  * **S3 Object Lambda** You can add your own code to process data retrieved from S3 before returning it to an application
 
  ![check](./img/f1.png)

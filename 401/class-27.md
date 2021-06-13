@@ -86,8 +86,12 @@
 1. Does a deployed React application require a server?
 - You don't necessarily need a static server in order to run a Create React App project in production. It also works well when integrated into an existing server side app 
 
+2. Why do we prefer to test a React application at the behavior rather than the unit level?
+* easy to test the UI in front end
+ 
 3. What does npm run build do?
 - npm run build runs the script "build" and created a script which runs your application
 - npm run build does nothing unless you specify what "build" does in your package.json file. It lets you perform any necessary building/prep tasks for your project, prior to it being used in another project.
 
-
+4. Describe the actual composition / architecture of a React application
+- Components written by different people should work well together. It is important to us that you can add functionality to a component without causing rippling changes throughout the codebase.

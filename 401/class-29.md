@@ -27,6 +27,11 @@
 
 
 2. When a component “wraps” another component, how does the child component’s output get rendered
-- 
-3. 
+- using props.children
 
+3. Can a component, such as , which is a child also be used as a standalone component elsewhere in the application?
+- Yes 
+
+4. What trick can a parent use to share all props with it’s children
+props
+-  Cloning children with new props, You can use React.Children to iterate over the children, and then clone each element with new props (shallow merged) using React.cloneElement

@@ -24,4 +24,3 @@
     3. Multiply it by a prime number such as 599. ``280 * 599 = 69648``
     4. Use modulo to get the remainder of the result, when divided by the total size of the array. ``69648 % 1024 = 16``
     5. Insert into the array at that index. ``Key gets placed in index of 16``
-

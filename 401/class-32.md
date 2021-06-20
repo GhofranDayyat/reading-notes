@@ -21,4 +21,15 @@
 # Q
 1. What does a component’s lifecycle refer to?
 - Everything you see in a React application is a component or part of a component. In React, components are designed to follow the natural cycle of life. They are born (creation), grow (updating), and finally die (deletion). This is called the component lifecycle
-2. 
+
+
+2. Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
+- in ``useEffect`` no need to re-create function component  render 
+
+
+3. Why are functional components preferred over class components?
+- functional components  easer to read and presentational 
+
+
+4. What is wrong with the following code?
+- we can't use ``UseEffect` inside loop 
